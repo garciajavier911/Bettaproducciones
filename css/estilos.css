@@ -75,6 +75,7 @@ width: 18rem;
     margin: 10px;
     height: 400px;
     width: 600px;
+    object-fit: cover;
 }
 .galeria img:hover{
   transition: all .5s ease-in-out;
